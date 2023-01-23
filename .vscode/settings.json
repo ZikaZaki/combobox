@@ -1,0 +1,19 @@
+"files.associations": {
+    // extension name : html
+    "*.html": "html",
+    "*.erb": "html",
+    "*.ejs": "html",
+    "*.js": "html",
+
+    // extension name : css
+    "*.css": "css",
+    "*.scss": "css",
+    "*.sass": "css",
+    "*.less": "css",
+
+    // extension name : javascript
+    "*.js": "javascript",
+    "*.jsx": "javascript",
+    "*.ts": "javascript",
+    "*.tsx": "javascript"
+}
