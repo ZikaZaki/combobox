@@ -1,4 +1,4 @@
-release: bundle exec bin/rails db:setup
+release: bin/rails db:setup
 web: unset PORT && bin/rails server
 js: yarn build --watch
 css: yarn build:css --watch
